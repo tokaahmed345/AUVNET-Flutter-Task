@@ -14,16 +14,16 @@ class CustomListTile extends StatelessWidget {
         borderRadius: BorderRadius.circular(10.0),
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withValues(
-              alpha: 0.1,
+            color: Colors.black.withOpacity(
+              0.1,
             ), // First shadow: 10% black opacity
             spreadRadius: 0, // Spread: 0
             blurRadius: 4, // Blur: 4
             offset: const Offset(-2, -2), // Position: X: -2, Y: -2
           ),
           BoxShadow(
-            color: Colors.black.withValues(
-              alpha: 0.1,
+            color: Colors.black.withOpacity(
+           0.1,
             ), // Second shadow: 10% black opacity
             spreadRadius: 0, // Spread: 0
             blurRadius: 4, // Blur: 4
