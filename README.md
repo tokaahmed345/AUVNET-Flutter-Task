@@ -1,5 +1,5 @@
 
-# 🛍️ AUVNET Flutter Internship Task
+# 🛍️ AUVNET Flutter  Task
 
 This is a simple, responsive e-commerce Flutter application built as part of the AUVNET internship task. It follows Clean Architecture principles and uses the BLoC pattern for state management. Firebase is used for backend services, and Hive is used for local caching.
 
